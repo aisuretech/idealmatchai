@@ -6,7 +6,6 @@
 
 ## Live Demo
 - **Production:** https://www.idealmatchai.com
-- **Staging (optional):** N/A
 
 ![Preview Image](https://www.idealmatchai.com/images/heart.png)
 
@@ -125,7 +124,7 @@ APP_BASE_URL=https://www.idealmatchai.com
 
 ---
 
-## API / Backend Details (if applicable)
+## API / Backend Details
 
 ### Example Endpoint
 
